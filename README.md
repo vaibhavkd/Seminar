@@ -1,7 +1,7 @@
 # Seminar
-Use of Artificial Intelligence and Automation for Medicine and Healthcare.
-Abstract and keywords
-Abstract:
+##Use of Artificial Intelligence and Automation for Medicine and Healthcare.
+##Abstract and keywords
+###Abstract:
 Medicine is a field that is starting to gravitate towards the temptation to incorporate
 automation and artificial intelligence into medical practices. Recent developments in deep
 learning has increased the confidence of researchers in AI models to give better results. There are
@@ -13,6 +13,6 @@ present with a lack of medical experts and accessibility to better healthcare. T
 will discuss the current state of AI and automation in Medicine and healthcare and it’s future.
 It’ll also discuss technologies that make this artificial intelligence-based medical diagnosis
 possible.
-Keywords:
+###Keywords:
 artificial intelligence, machine learning, deep learning, convolutional neural network,
 medicine, healthcare, automation, robotics
