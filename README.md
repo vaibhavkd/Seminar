@@ -1,5 +1,5 @@
 # Seminar
-##Use of Artificial Intelligence and Automation for Medicine and Healthcare.<br />
+**Use of Artificial Intelligence and Automation for Medicine and Healthcare.**<br />
 ##Abstract and keywords<br />
 ###Abstract:<br />
 Medicine is a field that is starting to gravitate towards the temptation to incorporate
